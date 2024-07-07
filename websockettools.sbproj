@@ -1,0 +1,14 @@
+{
+  "Title": "Websocket Tools",
+  "Type": "library",
+  "Org": "nolankicks",
+  "Ident": "websocket_tools",
+  "Schema": 1,
+  "IncludeSourceFiles": false,
+  "Resources": null,
+  "PackageReferences": [],
+  "EditorReferences": null,
+  "Metadata": {
+    "CsProjName": ""
+  }
+}
